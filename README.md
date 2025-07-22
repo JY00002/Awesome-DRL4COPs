@@ -35,3 +35,34 @@
 | 31 | Diverse policy generation for the flexible job-shop scheduling problem via deep reinforcement learning with a novel graph representation | FJSP | 2025 | [💻](https://github.com/Echever/RL-for-FJSSP) |
 | 32 | A modified multi-agent proximal policy optimization algorithm for multi-objective dynamic partial-re-entrant hybrid flow shop scheduling problem | MDFFSP | 2025 | [💻](https://github.com/GarveyPython/MDPR-HFSP) |
 | 33 | Dynamic scheduling for multi-objective flexible job shop via deep reinforcement learning | MDFJSP | 2025 | [💻](https://github.com/cslxju/DMOFJSSP_DRL) |
+
+## Routing Problems and Links
+
+| ID | Paper Title | Problem | Year | Code |
+|:---:|------------|:-------:|:----:|:------|
+| 1 | Attention, Learn to Solve Routing Problems | TSP, CVRP, SDVRP, OP, PCTSP, SPCTSP | 2019 | [💻](https://github.com/wouterkool/attention-learn-to-route) |
+| 2 | A Learning-Based Iterative Method for Solving Vehicle Routing Problems | CVRP | 2020 | [💻](https://github.com/rlopt/l2i) |
+| 3 | POMO: Policy Optimization with Multiple Optima for Reinforcement Learning | TSP, CVRP, KP | 2020 | [💻](https://github.com/yd-kwon/POMO) |
+| 4 | Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer | TSP, CVRP | 2021 | [💻](https://github.com/yining043/VRP-DACT) |
+| 5 | Multi-Decoder Attention Model with Embedding Glimpse for Solving Vehicle Routing Problems | TSP, CVRP, SDVRP, OP, PCTSP, SPCTS | 2021 | [💻](https://github.com/liangxinedu/MDAM) |
+| 6 | Generalize a Small Pre-trained Model to Arbitrarily Large TSP Instances | TSP | 2021 | [💻](https://github.com/Spider-scnu/TSP) |
+| 7 | Dynamic Graph Combinatorial Optimization with Multi-Attention Deep Reinforcement Learning | DTSP, DVRP | 2022 | [💻](https://github.com/udeshmg/GTA-RL) |
+| 8 | Sym-NCO: Leveraging Symmetricity for Neural Combinatorial Optimization | TSP, CVRP, PCTSP, OP | 2022 | [💻](https://github.com/alstn12088/Sym-NCO) |
+| 9 | Learning Improvement Heuristics for Solving Routing Problems | TSP, CVRP | 2022 | [💻](https://github.com/WXY1427/Learn-Improvement-Heuristics-for-Routing) |
+| 10 | Solve routing problems with a residual edge-graph attention neural network | TSP, CVRP | 2022 | [💻](https://github.com/Lei-Kun/DRL-and-graph-neural-network-for-routing-problems) |
+| 11 | Meta-Learning-Based Deep Reinforcement Learning for Multiobjective Optimization Problems | MTSP, MVRPTW | 2023 | [💻](https://github.com/zhangzizhen/ML-DAM) |
+| 12 | Neural Improvement Heuristics for Graph Combinatorial Optimization Problems | TSP, PRP, GPP | 2023 | [💻](https://github.com/TheLeprechaun25/neural-improvement-heuristics) |
+| 13 | H-TSP: Hierarchically Solving the Large-Scale Traveling Salesman Problem | TSP | 2023 | [💻](https://github.com/Learning4Optimization-HUST/H-TSP) |
+| 14 | Pointerformer: Deep Reinforced Multi-Pointer Transformer for the Traveling Salesman Problem | TSP | 2023 | [💻](https://github.com/Pointerformer/Pointerformer) |
+| 15 | Cross-Problem Learning for Solving Vehicle Routing Problems | TSP, OP, PCTSP, CVRP | 2024 | [💻](https://github.com/Zhuoyi-Lin/Cross_problem_learning) |
+| 16 | Deep Reinforcement Learning for Solving Vehicle Routing Problems With Backhauls | VRPB | 2024 | [💻](https://github.com/wangconghui0/VRPB) |
+| 17 | GLOP: Learning Global Partition and Local Construction for Solving Large-Scale Routing Problems in Real-Time | TSP, ATSP, CVRP, PCTSP | 2024 | [💻](https://github.com/henry-yeh/GLOP) |
+| 18 | Learning Feature Embedding Refiner for Solving Vehicle Routing Problems | TSP, CVRP | 2024 | [💻](https://github.com/Demon0312/Feature-Embedding-Refiner) |
+| 19 | Multi-Type Attention for Solving Multi-Depot Vehicle Routing Problems | MDVRP, MDOVRP | 2024 | [💻](https://github.com/Good9T/MD_MTA) |
+| 20 | MVMoE: Multi-Task Vehicle Routing Solver with Mixture-of-Experts | CVRP, OVRP, VRPB, VRPL, VRPTW, OVRPTW (16 types) | 2024 | [💻](https://github.com/RoyalSkye/Routing-MVMoE) |
+| 21 | Reinforcement Learning for Solving Stochastic Vehicle Routing Problem with Time Windows | VRPTW | 2024 | [💻](https://github.com/Zangir/SVRP) |
+| 22 | RouteFinder: Towards Foundation Models for Vehicle Routing Problems | CVRP, OVRP, VRPB, VRPL, VRPTW, OVRPTW, OVRPB, OVRPL, VRPBL, VRPBTW, VRPLTW | 2024 | [💻](https://github.com/ai4co/routefinder) |
+| 23 | Token-based deep reinforcement learning for Heterogeneous VRP with Service Time Constraints | HVRP | 2024 | [💻](https://github.com/Vision-Intelligence-and-Robots-Group/ToDRL) |
+| 24 | Multi-Task Learning for Routing Problem with Cross-Problem Zero-Shot Generalization | CVRP, VRPTW, OVRP, VRPB, VRPL, VRPBL, VRPBTW, OVRPL, OVRPLTW, OVRPBTW | 2024 | [💻](https://github.com/FeiLiu36/MTNCO) |
+| 25 | A comparison of reinforcement learning policies for dynamic vehicle routing problems with stochastic customer requests | DVRP | 2025 | [💻](https://github.com/frakkerman/dynamic_vrp_rl) |
+| 26 | Attention-Enhanced Deep Reinforcement Learning for Electric Vehicle Routing Optimization | E-VRP | 2025 | [💻](https://github.com/forward-no/AEDRL) |
