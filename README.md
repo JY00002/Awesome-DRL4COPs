@@ -1,3 +1,67 @@
+<!-- 
+   ================================
+   README for "Awesome-DRL4COPs: Deep Reinforcement Learning for Combinatorial Optimization Problems"
+   ================================
+-->
+
+<h1 align="center">
+  🚁 Awesome-DRL4COPs: Deep Reinforcement Learning for Combinatorial Optimization Problems 🚀
+</h1>
+
+<p align="center">
+  <!-- 1) Awesome Badge -->
+  <a href="https://awesome.re" target="_blank">
+    <img src="https://awesome.re/badge.svg" alt="Awesome Badge"/>
+  </a>
+  
+  <!-- 2) Maintain Status Badge -->
+  <img src="https://img.shields.io/badge/Maintain-Active-8A2BE2?style=flat-square&logo=github&logoColor=white" alt="Maintain Badge"/>
+
+  <!-- 3) PR's Welcome Badge -->
+  <a href="http://makeapullrequest.com" target="_blank">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PR's Welcome"/>
+  </a>
+
+  <!-- 4) Visitor Badge: replace 'YourGitHubName' with your GitHub username or org name -->
+  <a href="[https://github.com/JY00002/Awesome-DRL4COPs](https://github.com/JY00002/Awesome-DRL4COPs)" target="_blank">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=YourGitHubName.Awesome-DRL4COPs&left_color=%239146DE&right_color=%23E6C82D" alt="Visitor Badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>Where Deep Reinforcement Learning for Combinatorial Optimization Problems!</strong>
+</p>
+
+<hr/>
+
+<!-- About Section -->
+# 🏡About
+This repository accompanies the work:  
+**Deep reinforcement learning for combinatorial optimization problems: a comprehensive literature review** 
+
+This is an active repository, you can watch for the latest advances.  
+If you find it useful, please star ⭐ this repo and [cite](#citation) the paper.
+
+---
+
+## 🔥 News
+- **[2025-07-23]** 🎉 Our paper *"Deep reinforcement learning for combinatorial optimization problems: a comprehensive literature review"* has been **submited to  _Artificial Intelligence Review_**.
+
+> If you have any questions or suggestions, please feel free to open an [issue](https://github.com/JY00002/Awesome-DRL4COPs/issues) or contact us via [email](shengyunwei@nudt.edu.cn).
+
+---
+
+## Introduction
+This repository accompanies our work on **"Deep reinforcement learning for combinatorial optimization problems: a comprehensive literature review"**.  
+Here, we primarily store various **tables** referenced in the survey/overview paper. These tables focus on:
+
+- Summarization of typical **VRP, JSP, and FSP**  
+- **COPs benchmark datasets** and SOTA results
+
+> **Note**: The goal is to provide a structured, easy-to-navigate resource for researchers interested in the intersection of DRL and COPs.
+
+---
+
 ## Shop Scheduling Problem and Links
 
 | ID | Paper Title | Problem | Year | Code |
