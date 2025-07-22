@@ -1,0 +1,12 @@
+﻿Instance,size,UB,Learning to schedule job-shop problems: representation and policy learning using graph neural network and reinforcement learning,Solving job shop scheduling problems via deep reinforcement learning,ScheduleNet: Learn to solve multi-agent scheduling problems with reinforcement learning,Actor-Critic Deep Reinforcement Learning for Solving Job Shop Scheduling Problems,Dynamic job-shop scheduling in smart manufacturing using deep reinforcement learning,Residual Scheduling: A New Reinforcement Learning Approach to Solving Job Shop Scheduling Problem
+orb01,10×10,1059,1336,1271,1276,1211,1131,
+orb02,10×10,888,1067,1033,958,1002,993,
+orb03,10×10,1005,1202,1169,1335,1150,1092,
+orb04,10×10,1005,1281,1174,1178,1132,1118,
+orb05,10×10,887,1082,1147,1042,1045,972,
+orb06,10×10,1010,1178,1280,1222,1106,1140,
+orb07,10×10,397,477,461,456,468,432,
+orb08,10×10,899,1156,1093,1178,1022,979,
+orb09,10×10,934,1143,1140,1145,1082,1005,
+orb10,10×10,944,1087,1171,1080,,,
+mean,,902.8,1100.9,1093.9,1087,1024.22,984.67,1045.53

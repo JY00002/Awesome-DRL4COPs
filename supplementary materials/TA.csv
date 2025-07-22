@@ -1,0 +1,22 @@
+﻿Instance,Size,LB,UB,Research on adaptive job shop scheduling problems based on dueling double DQN,A Deep Reinforcement Learning Framework Based on an Attention Mechanism and Disjunctive Graph Embedding for the Job-Shop Scheduling Problem ,A novel Soft Actor–Critic framework with disjunctive graph embedding and autoencoder mechanism for Job Shop Scheduling Problems,Dynamic Job-Shop Scheduling via Graph Attention Networks and Deep Reinforcement Learning,Learning to Dispatch for Job Shop Scheduling via Deep Reinforcement Learning,ScheduleNet: Learn to solve multi-agent scheduling problems with reinforcement learning,Solving job shop scheduling problems via deep reinforcement learning,Learning to schedule job-shop problems: representation and policy learning using graph neural network and reinforcement learning,Residual Scheduling: A New Reinforcement Learning Approach to Solving Job Shop Scheduling Problem,A deep reinforcement learning model for dynamic job-shop scheduling problem with uncertain processing time,An efficient and adaptive design of reinforcement learning environment to solve job shop scheduling problem with soft actor-critic algorithm,A spatial pyramid pooling-based deep reinforcement learning model for dynamic job-shop scheduling problem,Introducing PetriRL: An innovative framework for JSSP resolution integrating Petri nets and event-based reinforcement learning,Preference learning based deep reinforcement learning for flexible job shop scheduling problem
+Instance,Size,LB,UB,187,3,6,12,27,45,17,2,43,4,8,25,22,165
+ta01,15×15,1231,1231,1315,1711,1435,1492,1443,1452,1437,1389,1417,,1389,,1436,1327
+ta02,15×15,1244,1244,1336,1639,1446,1425,1544,1411,1409,1519,1378,,1357,,,1378
+ta11,20×15,1357,1357,1516,1833,1701,1752,1794,1612,1660,1626,1618,,1567,,1568,1619
+ta12,20×15,1367,1367,1586,1765,1746,1692,1805,1600,1646,1668,1646,,1565,,,
+ta21,20×20,1642,1642,1952,2145,2134,2097,2252,1921,1984,2199,1904,1876,1841,1863.25,2064,
+ta22,20×20,1561,1600,1870,2015,1970,1924,2102,1844,1828,2049,1849,1794,1782,1840.75,,
+ta31,30×15,1764,1764,1986,2382,2197,2277,2565,2055,2187,2251,2067,1965,2013,2022.25,2166,2278
+ta32,30×15,1774,1784,2135,2458,2382,2203,2388,2268,2235,2378,2076,2096,2043,2099.75,,
+ta41,30×20,1906,2005,2450,2541,2688,2698,2667,2572,2580,2654,2417,2398,2399,2393.75,2576,2433
+ta42,30×20,1884,1937,2351,2762,2572,2623,2664,2397,2334,2579,2270,2305,2265,2323,,
+ta51,50×15,2760,2760,3263,3762,3527,3608,3599,3382,3488,3145,3085,3155,3003,3155,3272,3187
+ta52,50×15,2756,2756,3229,3511,3465,3524,3341,3231,3334,3157,3093,3056,3013,3045.25,,
+ta61,50×20,2868,2868,3367,3633,3570,3548,3654,3202,3363,3425,3259,,,,3505,
+ta62,50×20,2869,2869,3489,3712,3629,3557,3722,3339,3549,3626,3156,,,,,
+ta71,100×20,5464,5464,5908,6321,6137,6289,6452,5879,5960,5962,5642,,,,6366,
+ta72,100×20,5181,5181,5746,6232,5650,6002,5695,5456,5543,5522,5371,,,,,
+mean,,,2364.31 ,2718.69 ,3026.38 ,2890.56 ,2919.44 ,2980.44 ,2726.31 ,2783.56 ,2821.81 ,2640.50 ,2330.63 ,2019.75 ,2342.88 ,2869.13 ,2037.00 
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
