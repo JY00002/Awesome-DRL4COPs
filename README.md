@@ -161,12 +161,11 @@ We provide structured resources focusing on:
 | **CVRPLIB** | Capacitated VRP Benchmark | [🚚](http://vrp.atd-lab.inf.puc-rio.br/index.php/en/) |
 | **Solomon** | Classic VRP Benchmark | (Same as CVRPLIB) |
 
-### ⚙️ Research Platforms
+## ⚙️ Research Platforms
 | Platform | Description | Link |
 |----------|-------------|------|
-| **RL4CO** | Unified framework for RL-based CO | [<img src="https://raw.githubusercontent.com/ai4co/assets/main/svg/rl4co_animated_full.svg" alt="AI4CO Logo" style="width: 6%; height: auto;">
-](https://github.com/ai4co/rl4co) |
-| **AI4CO** | Open Research Community | [<img src="https://raw.githubusercontent.com/ai4co/assets/main/svg/ai4co_animated_full.svg" alt="AI4CO Logo" style="width: 6%; height: auto;">](https://github.com/ai4co) |
+| **RL4CO** | Unified framework for RL-based CO | <a href="https://github.com/ai4co/rl4co"><img src="https://raw.githubusercontent.com/ai4co/assets/main/svg/rl4co_animated_full.svg" alt="RL4CO Logo" height="30"></a> |
+| **AI4CO** | Open Research Community | <a href="https://github.com/ai4co"><img src="https://raw.githubusercontent.com/ai4co/assets/main/svg/ai4co_animated_full.svg" alt="AI4CO Logo" height="30"></a> |
 
 ---
 
