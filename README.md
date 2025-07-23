@@ -133,11 +133,11 @@ We provide structured resources focusing on:
 
 ### 📊 Benchmark Results
 > Benchmark dataset results reported in the literature can be found in:  
-> [`supplementary materials/`](supplementary_materials/)
+> [`supplementary_materials/`](supplementary_materials/)
 
 ### 📈 Methodology Visualization
 > Sankey diagrams illustrating methodological approaches:  
-> [`Sankey diagram/`](Sankey_diagram/)
+> [`Sankey_diagram/`](Sankey_diagram/)
 
 ### 📚 Complete Paper List
 > Full literature database with metadata (problem types, state representations, venues, etc.):  
