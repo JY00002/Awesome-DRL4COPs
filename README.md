@@ -165,7 +165,7 @@ We provide structured resources focusing on:
 | Platform | Description | Link |
 |----------|-------------|------|
 | **RL4CO** | RL Framework for CO | [⚡](https://github.com/ai4co/rl4co) |
-| **AI4CO** | Open Research Community | [<img src="https://raw.githubusercontent.com/ai4co/assets/main/svg/ai4co_animated_full.svg" alt="AI4CO Logo" style="width: 10%; height: auto;">](https://github.com/ai4co) |
+| **AI4CO** | Open Research Community | [<img src="https://raw.githubusercontent.com/ai4co/assets/main/svg/ai4co_animated_full.svg" alt="AI4CO Logo" style="width: 6%; height: auto;">](https://github.com/ai4co) |
 
 ---
 
