@@ -36,7 +36,7 @@ This repository accompanies the work:
 ---
 
 ## 🔥 Latest News
-- **`[2025-07-23]`** 🎉 Our paper *"Deep reinforcement learning for combinatorial optimization problems: a comprehensive literature review"* has been **submitted to _Artificial Intelligence Review_**.
+- **`[2025-07-23]`** 🎉 Our paper *"Deep reinforcement learning for combinatorial optimization problems: a comprehensive literature review"* has been **submitted for publication**.
 
 > 💬 Questions or suggestions? Open an [issue](https://github.com/JY00002/Awesome-DRL4COPs/issues) or contact us via [email](shengyunwei@nudt.edu.cn)
 
@@ -174,6 +174,6 @@ We provide structured resources focusing on:
 @article{awesomeDRL4COPs2025,
   title  = {Deep reinforcement learning for combinatorial optimization problems: a comprehensive literature review},
   author = {Shengyun Wei, et al.},
-  journal = {Submitted to Artificial Intelligence Review},
+  journal = {submitted for publication},
   year   = {2025}
 }
