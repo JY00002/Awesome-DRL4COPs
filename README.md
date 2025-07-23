@@ -166,7 +166,7 @@ We provide structured resources focusing on:
 |----------|-------------|------|
 | **RL4CO** | Unified framework for RL-based CO | <a href="https://github.com/ai4co/rl4co"><img src="https://raw.githubusercontent.com/ai4co/assets/main/svg/rl4co_animated_full.svg" alt="RL4CO Logo" height="30"></a> |
 | **AI4CO** | Open Research Community | <a href="https://github.com/ai4co"><img src="https://raw.githubusercontent.com/ai4co/assets/main/svg/ai4co_animated_full.svg" alt="AI4CO Logo" height="30"></a> |
-
+| **FM4CO** | Foundation Models for Combinatorial Optimization | <a href="https://github.com/ai4co/awesome-fm4co"><img src="https://raw.githubusercontent.com/ai4co/assets/main/svg/ai4co_animated_full.svg" alt="AI4CO Logo" height="30"></a> |
 ---
 
 ## ✏️ Citation
