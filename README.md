@@ -54,7 +54,7 @@ We provide structured resources focusing on:
 
 ---
 
-## 📚 Research Papers
+## 📚 Research Papers with Open-Source Code
 
 ### 🏭 Shop Scheduling Problems
 | ID | Paper Title | Problem | Year | Code |
@@ -93,6 +93,7 @@ We provide structured resources focusing on:
 | 32 | A modified multi-agent proximal policy optimization algorithm for multi-objective dynamic partial-re-entrant hybrid flow shop scheduling problem | MDFFSP | 2025 | [💻](https://github.com/GarveyPython/MDPR-HFSP) |
 | 33 | Dynamic scheduling for multi-objective flexible job shop via deep reinforcement learning | MDFJSP | 2025 | [💻](https://github.com/cslxju/DMOFJSSP_DRL) |
 
+*Full table available in repository*
 
 ### 🚚 Routing Problems
 | ID | Paper Title | Problem | Year | Code |
@@ -124,6 +125,24 @@ We provide structured resources focusing on:
 | 25 | A comparison of reinforcement learning policies for dynamic vehicle routing problems with stochastic customer requests | DVRP | 2025 | [💻](https://github.com/frakkerman/dynamic_vrp_rl) |
 | 26 | Attention-Enhanced Deep Reinforcement Learning for Electric Vehicle Routing Optimization | E-VRP | 2025 | [💻](https://github.com/forward-no/AEDRL) |
 
+*Full table available in repository*
+
+---
+
+## 🔬 Supplementary Resources
+
+### 📊 Benchmark Results
+> Benchmark dataset results reported in the literature can be found in:  
+> [`supplementary_materials/`](supplementary_materials/)
+
+### 📈 Methodology Visualization
+> Sankey diagrams illustrating methodological approaches:  
+> [`Sankey_diagram/`](Sankey_diagram/)
+
+### 📚 Complete Paper List
+> Full literature database with metadata (problem types, state representations, venues, etc.):  
+> [`complete_paper_list/`](complete_paper_list/)
+
 ---
 
 ## 📁 Benchmark Resources
@@ -154,7 +173,7 @@ We provide structured resources focusing on:
 ```bibtex
 @article{awesomeDRL4COPs2025,
   title  = {Deep reinforcement learning for combinatorial optimization problems: a comprehensive literature review},
-  author = {Your Name, et al.},
+  author = {Shengyun Wei, et al.},
   journal = {Submitted to Artificial Intelligence Review},
   year   = {2025}
 }
