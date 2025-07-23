@@ -1,71 +1,64 @@
-<!-- 
-   ================================
-   README for "Awesome-DRL4COPs: Deep Reinforcement Learning for Combinatorial Optimization Problems"
-   ================================
--->
+<!-- ============================================================
+     AWESOME DRL FOR COMBINATORIAL OPTIMIZATION PROBLEMS
+     ============================================================ -->
 
-<h1 align="center">
-  🚁 Awesome-DRL4COPs: Deep Reinforcement Learning for Combinatorial Optimization Problems 🚀
-</h1>
-
-<p align="center">
-  <!-- 1) Awesome Badge -->
-  <a href="https://awesome.re" target="_blank">
-    <img src="https://awesome.re/badge.svg" alt="Awesome Badge"/>
-  </a>
+<div align="center">
+  <h1 align="center">🤖 Awesome-DRL4COPs<br>Deep Reinforcement Learning for Combinatorial Optimization Problems</h1>
   
-  <!-- 2) Maintain Status Badge -->
-  <img src="https://img.shields.io/badge/Maintain-Active-8A2BE2?style=flat-square&logo=github&logoColor=white" alt="Maintain Badge"/>
+  <p align="center">
+    <a href="https://awesome.re" target="_blank">
+      <img src="https://awesome.re/badge.svg" alt="Awesome Badge"/>
+    </a>
+    <img src="https://img.shields.io/badge/Maintain-Active-8A2BE2?style=flat-square&logo=github&logoColor=white" alt="Maintain Badge"/>
+    <a href="http://makeapullrequest.com" target="_blank">
+      <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PR's Welcome"/>
+    </a>
+    <a href="https://github.com/JY00002/Awesome-DRL4COPs" target="_blank">
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=JY00002.Awesome-DRL4COPs&left_color=%239146DE&right_color=%23E6C82D" alt="Visitor Badge"/>
+    </a>
+  </p>
 
-  <!-- 3) PR's Welcome Badge -->
-  <a href="http://makeapullrequest.com" target="_blank">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PR's Welcome"/>
-  </a>
-
-  <!-- 4) Visitor Badge: replace 'YourGitHubName' with your GitHub username or org name -->
-  <a href="[https://github.com/JY00002/Awesome-DRL4COPs](https://github.com/JY00002/Awesome-DRL4COPs)" target="_blank">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=YourGitHubName.Awesome-DRL4COPs&left_color=%239146DE&right_color=%23E6C82D" alt="Visitor Badge"/>
-  </a>
-</p>
-
-<p align="center">
-  <strong>Where Deep Reinforcement Learning for Combinatorial Optimization Problems!</strong>
-</p>
+  <p align="center">
+    <strong>Where Deep Reinforcement Learning Meets Combinatorial Optimization!</strong>
+  </p>
+</div>
 
 <hr/>
 
 <!-- About Section -->
-# 🏡About
+## 🏡 About
 This repository accompanies the work:  
-**Deep reinforcement learning for combinatorial optimization problems: a comprehensive literature review** 
+**📚 Deep reinforcement learning for combinatorial optimization problems: a comprehensive literature review** 
 
-This is an active repository, you can watch for the latest advances.  
-If you find it useful, please star ⭐ this repo and [cite](#citation) the paper.
-
----
-
-## 🔥 News
-- **[2025-07-23]** 🎉 Our paper *"Deep reinforcement learning for combinatorial optimization problems: a comprehensive literature review"* has been **submited to  _Artificial Intelligence Review_**.
-
-> If you have any questions or suggestions, please feel free to open an [issue](https://github.com/JY00002/Awesome-DRL4COPs/issues) or contact us via [email](shengyunwei@nudt.edu.cn).
+✨ This is an active repository - watch for the latest advances.  
+⭐ If you find it useful, please star this repo and [cite](#citation) our paper.
 
 ---
 
-## Introduction
+## 🔥 Latest News
+- **`[2025-07-23]`** 🎉 Our paper *"Deep reinforcement learning for combinatorial optimization problems: a comprehensive literature review"* has been **submitted to _Artificial Intelligence Review_**.
+
+> 💬 Questions or suggestions? Open an [issue](https://github.com/JY00002/Awesome-DRL4COPs/issues) or contact us via [email](shengyunwei@nudt.edu.cn)
+
+---
+
+## 📖 Introduction
 This repository accompanies our work on **"Deep reinforcement learning for combinatorial optimization problems: a comprehensive literature review"**.  
-Here, we primarily store various **tables** referenced in the survey/overview paper. These tables focus on:
+We provide structured resources focusing on:
 
-- Summarization of typical **VRP, JSP, and FSP**  
-- **COPs benchmark datasets** and SOTA results
+- Summarization of **VRP, JSP, and FSP** approaches
+- **Benchmark datasets** and state-of-the-art results
+- Implementations of key algorithms
 
-> **Note**: The goal is to provide a structured, easy-to-navigate resource for researchers interested in the intersection of DRL and COPs.
+> **💡 Note**: Designed as a navigable resource for researchers at the intersection of DRL and COPs
 
 ---
 
-## Shop Scheduling Problem and Links
+## 📚 Research Papers
 
+### 🏭 Shop Scheduling Problems
 | ID | Paper Title | Problem | Year | Code |
-|:---:|------------|:-------:|:----:|:------|
+|:--:|-------------|:-------:|:----:|:----:|
 | 1 | Learning to Dispatch for Job Shop Scheduling via Deep Reinforcement Learning | CJSP | 2020 | [💻](https://github.com/zcajiayin/L2D) |
 | 2 | Matrix Encoding Networks for Neural Combinatorial Optimization | FFSP/TSP | 2021 | [💻](https://github.com/yd-kwon/MatNet) |
 | 3 | Explainable reinforcement learning in production control of job shop manufacturing system | MJSP | 2022 | [💻](https://github.com/AndreasKuhnle/SimRLFab) |
@@ -100,10 +93,10 @@ Here, we primarily store various **tables** referenced in the survey/overview pa
 | 32 | A modified multi-agent proximal policy optimization algorithm for multi-objective dynamic partial-re-entrant hybrid flow shop scheduling problem | MDFFSP | 2025 | [💻](https://github.com/GarveyPython/MDPR-HFSP) |
 | 33 | Dynamic scheduling for multi-objective flexible job shop via deep reinforcement learning | MDFJSP | 2025 | [💻](https://github.com/cslxju/DMOFJSSP_DRL) |
 
-## Routing Problems and Links
 
+### 🚚 Routing Problems
 | ID | Paper Title | Problem | Year | Code |
-|:---:|------------|:-------:|:----:|:------|
+|:--:|-------------|:-------:|:----:|:----:|
 | 1 | Attention, Learn to Solve Routing Problems | TSP, CVRP, SDVRP, OP, PCTSP, SPCTSP | 2019 | [💻](https://github.com/wouterkool/attention-learn-to-route) |
 | 2 | A Learning-Based Iterative Method for Solving Vehicle Routing Problems | CVRP | 2020 | [💻](https://github.com/rlopt/l2i) |
 | 3 | POMO: Policy Optimization with Multiple Optima for Reinforcement Learning | TSP, CVRP, KP | 2020 | [💻](https://github.com/yd-kwon/POMO) |
@@ -130,3 +123,38 @@ Here, we primarily store various **tables** referenced in the survey/overview pa
 | 24 | Multi-Task Learning for Routing Problem with Cross-Problem Zero-Shot Generalization | CVRP, VRPTW, OVRP, VRPB, VRPL, VRPBL, VRPBTW, OVRPL, OVRPLTW, OVRPBTW | 2024 | [💻](https://github.com/FeiLiu36/MTNCO) |
 | 25 | A comparison of reinforcement learning policies for dynamic vehicle routing problems with stochastic customer requests | DVRP | 2025 | [💻](https://github.com/frakkerman/dynamic_vrp_rl) |
 | 26 | Attention-Enhanced Deep Reinforcement Learning for Electric Vehicle Routing Optimization | E-VRP | 2025 | [💻](https://github.com/forward-no/AEDRL) |
+
+---
+
+## 📁 Benchmark Resources
+
+### 🏭 Job Shop Scheduling (JSP/FJSP)
+| Dataset | Maintainer           | Included Instances                                  | Link |
+|---------|----------------------|-----------------------------------------------------|------|
+| **JSP** | Official (OR-Library) | ABZ, FT, ORB, YN, LA, SWV, TA, DMU | [🔗](https://people.brunel.ac.uk/~mastjjb/jeb/orlib/jobshopinfo.html) |
+| | Community | ABZ, FT, ORB, YN, LA, SWV, TA, DMU | [📂](https://github.com/SchedulingLab/jsp-instances) |
+| **FJSP**| Community | Hurink, MK, Behnke, Dauzere, Barnes | [📂](https://github.com/SchedulingLab/fjsp-instances) |
+
+### 🚛 Vehicle Routing Problems (VRP)
+| Dataset | Description | Link |
+|---------|-------------|------|
+| **TSPLIB** | Traveling Salesman Benchmark | [🌐](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/) |
+| **CVRPLIB** | Capacitated VRP Benchmark | [🚚](http://vrp.atd-lab.inf.puc-rio.br/index.php/en/) |
+| **Solomon** | Classic VRP Benchmark | (Same as CVRPLIB) |
+
+### ⚙️ Research Platforms
+| Platform | Description | Link |
+|----------|-------------|------|
+| **RL4CO** | RL Framework for CO | [⚡](https://github.com/ai4co/rl4co) |
+| **AI4CO** | Open Research Community | [🌍](https://github.com/ai4co) |
+
+---
+
+## ✏️ Citation
+```bibtex
+@article{awesomeDRL4COPs2025,
+  title  = {Deep reinforcement learning for combinatorial optimization problems: a comprehensive literature review},
+  author = {Your Name, et al.},
+  journal = {Submitted to Artificial Intelligence Review},
+  year   = {2025}
+}
