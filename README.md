@@ -145,7 +145,7 @@ We provide structured resources focusing on:
 
 ---
 
-## 📁 Benchmark Resources
+## 📁 Benchmark & Resources
 
 ### 🏭 Job Shop Scheduling (JSP/FJSP)
 | Dataset | Maintainer           | Included Instances                                  | Link |
