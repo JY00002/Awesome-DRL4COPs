@@ -147,14 +147,14 @@ We provide structured resources focusing on:
 
 ## 📁 Benchmark & Resources
 
-### 🏭 Job Shop Scheduling (JSP/FJSP)
+### 🏭 Shop Scheduling Problems (JSP/FJSP)
 | Dataset | Maintainer           | Included Instances                                  | Link |
 |---------|----------------------|-----------------------------------------------------|------|
 | **JSP** | Official (OR-Library) | ABZ, FT, ORB, YN, LA, SWV, TA, DMU | [🔗](https://people.brunel.ac.uk/~mastjjb/jeb/orlib/jobshopinfo.html) |
 | | Community | ABZ, FT, ORB, YN, LA, SWV, TA, DMU | [📂](https://github.com/SchedulingLab/jsp-instances) |
 | **FJSP**| Community | Hurink, MK, Behnke, Dauzere, Barnes | [📂](https://github.com/SchedulingLab/fjsp-instances) |
 
-### 🚛 Vehicle Routing Problems (VRP)
+### 🚛 Routing Problems
 | Dataset | Description | Link |
 |---------|-------------|------|
 | **TSPLIB** | Traveling Salesman Benchmark | [🌐](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/) |
