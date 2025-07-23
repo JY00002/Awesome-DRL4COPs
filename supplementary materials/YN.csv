@@ -1,6 +1,0 @@
-﻿Instance,size,UB,Learning to schedule job-shop problems: representation and policy learning using graph neural network and reinforcement learning,Solving job shop scheduling problems via deep reinforcement learning,ScheduleNet: Learn to solve multi-agent scheduling problems with reinforcement learning
-yn1,20×20,884,1118,1020,1027
-yn2,20×20,904,1097,1070,1037
-yn3,20×20,892,1083,1073,1046
-yn4,20×20,968,1258,1230,1216
-mean,,912,1139,1098.25,1081.5
