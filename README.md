@@ -28,7 +28,7 @@
 <!-- About Section -->
 ## 🏡 About
 This repository accompanies the work:  
-**📚 Deep reinforcement learning for combinatorial optimization problems: a comprehensive literature review** 
+**📚 Deep reinforcement learning for combinatorial optimization problems: a challenge-driven methodology and systematic review** 
 
 ✨ This is an active repository - watch for the latest advances.  
 ⭐ If you find it useful, please star this repo and [cite](#citation) our paper.
@@ -172,7 +172,7 @@ We provide structured resources focusing on:
 ## ✏️ Citation
 ```bibtex
 @article{awesomeDRL4COPs2025,
-  title  = {Deep reinforcement learning for combinatorial optimization problems: a comprehensive literature review},
+  title  = {Deep reinforcement learning for combinatorial optimization problems: a challenge-driven methodology and systematic review},
   author = {Shengyun Wei, et al.},
   journal = {submitted for publication},
   year   = {2025}
