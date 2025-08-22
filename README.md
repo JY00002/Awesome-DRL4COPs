@@ -47,6 +47,7 @@ This repository accompanies our work on **"Deep reinforcement learning for combi
 We provide structured resources focusing on:
 
 - Summarization of **VRP, JSP, and FSP** approaches
+- Through a critical analysis of **263** recent studies (2020–2025)
 - **Benchmark datasets** and state-of-the-art results
 - Implementations of key algorithms
 
