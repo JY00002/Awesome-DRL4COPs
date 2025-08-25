@@ -174,7 +174,7 @@ We provide structured resources focusing on:
 ```bibtex
 @article{awesomeDRL4COPs2025,
   title  = {Deep reinforcement learning for combinatorial optimization problems: a challenge-driven methodology and systematic review},
-  author = {Shengyun Wei, et al.},
+  author = {Wei, et al.},
   journal = {submitted for publication},
   year   = {2025}
 }
