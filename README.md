@@ -125,7 +125,11 @@ We provide structured resources focusing on:
 | 24 | Multi-Task Learning for Routing Problem with Cross-Problem Zero-Shot Generalization | CVRP, VRPTW, OVRP, VRPB, VRPL, VRPBL, VRPBTW, OVRPL, OVRPLTW, OVRPBTW | 2024 | [💻](https://github.com/FeiLiu36/MTNCO) |
 | 25 | A comparison of reinforcement learning policies for dynamic vehicle routing problems with stochastic customer requests | DVRP | 2025 | [💻](https://github.com/frakkerman/dynamic_vrp_rl) |
 | 26 | Attention-Enhanced Deep Reinforcement Learning for Electric Vehicle Routing Optimization | E-VRP | 2025 | [💻](https://github.com/forward-no/AEDRL) |
+| 27+ | PARCO: Learning Parallel Autoregressive Policies for Efficient Multi-Agent Combinatorial Optimization | HCVRP, OMDCPDP, FFSP | 2024 | [💻](https://github.com/ai4co/parco) |
+| 28+ | Learning to solve the Skill Vehicle Routing Problem with Deep Reinforcement Learning | SVRP | 2025 | [💻](https://github.com/ngastzepeda/lion2025-drl-skillvrp) |
 
++ new added
+  
 *Full table available in repository*
 
 ---
