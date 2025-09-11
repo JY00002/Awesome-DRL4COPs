@@ -128,7 +128,7 @@ We provide structured resources focusing on:
 | 27+ | PARCO: Learning Parallel Autoregressive Policies for Efficient Multi-Agent Combinatorial Optimization | HCVRP, OMDCPDP, FFSP | 2024 | [💻](https://github.com/ai4co/parco) |
 | 28+ | Learning to solve the Skill Vehicle Routing Problem with Deep Reinforcement Learning | SVRP | 2025 | [💻](https://github.com/ngastzepeda/lion2025-drl-skillvrp) |
 
-+ new added
++ new added +
   
 *Full table available in repository*
 
