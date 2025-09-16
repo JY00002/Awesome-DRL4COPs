@@ -58,10 +58,10 @@ We provide structured resources focusing on:
 ## 📚 Research Papers with Open-Source Code
 
 ### 🏭 Shop Scheduling Problems
-| ID | Paper Title | Problem | Year | Code |
-|:--:|-------------|:-------:|:----:|:----:|
-| 1 | Learning to Dispatch for Job Shop Scheduling via Deep Reinforcement Learning | CJSP | 2020 | [💻](https://github.com/zcajiayin/L2D) |
-| 2 | Matrix Encoding Networks for Neural Combinatorial Optimization | FFSP/TSP | 2021 | [💻](https://github.com/yd-kwon/MatNet) |
+| ID | Paper Title | Problem | Problem | Year | Code |
+|:--:|-------------|:-------:|:-------:|:----:|:----:|
+| 1 | Learning to Dispatch for Job Shop Scheduling via Deep Reinforcement Learning | CJSP | L2D | 2020 | [💻](https://github.com/zcajiayin/L2D) |
+| 2 | Matrix Encoding Networks for Neural Combinatorial Optimization | FFSP/TSP |  MatNet | 2021 | [💻](https://github.com/yd-kwon/MatNet) |
 | 3 | Explainable reinforcement learning in production control of job shop manufacturing system | MJSP | 2022 | [💻](https://github.com/AndreasKuhnle/SimRLFab) |
 | 4 | A multi-action deep reinforcement learning framework for flexible Job-shop scheduling problem | FJSP | 2022 | [💻](https://github.com/pengguo318/FJSPDRL) |
 | 5 | Multi-objective reinforcement learning framework for dynamic flexible job shop scheduling problem with uncertain events | MDFJSP | 2022 | [💻](https://codeocean.com/capsule/6421616/tree/v1) |
