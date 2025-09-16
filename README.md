@@ -147,7 +147,8 @@ We provide structured resources focusing on:
 ### 📈 Methodology Visualization
 > Sankey diagrams illustrating methodological approaches:  
 > [`Sankey_diagram/`](Sankey_diagram/)
-
+> 
+  ![Sankey diagram of multi-level taxonomy for scheduling problem](./Sankey_diagram/Fig3.png)
 ### 📚 Complete Paper List
 > Full literature database with metadata (problem types, state representations, venues, etc.):  
 > [`complete_paper_list/`](complete_paper_list/)
