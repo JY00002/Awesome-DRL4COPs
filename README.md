@@ -99,7 +99,7 @@ We provide structured resources focusing on:
 | ID | Paper Title | Acronym | Problem | Year | Code |
 |:--:|-------------|:-------:|:-------:|:----:|:----:|
 | 1 | Attention, Learn to Solve Routing Problems | AM | TSP, CVRP, SDVRP, OP, PCTSP, SPCTSP | 2019 | [💻](https://github.com/wouterkool/attention-learn-to-route) |
-| 2 | A Learning-Based Iterative Method for Solving Vehicle Routing Problems | L2I | -- | CVRP | 2020 | [💻](https://github.com/rlopt/l2i) |
+| 2 | A Learning-Based Iterative Method for Solving Vehicle Routing Problems | L2I | CVRP | 2020 | [💻](https://github.com/rlopt/l2i) |
 | 3 | POMO: Policy Optimization with Multiple Optima for Reinforcement Learning | POMO | TSP, CVRP, KP | 2020 | [💻](https://github.com/yd-kwon/POMO) |
 | 4 | Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer | DACT | TSP, CVRP | 2021 | [💻](https://github.com/yining043/VRP-DACT) |
 | 5 | Multi-Decoder Attention Model with Embedding Glimpse for Solving Vehicle Routing Problems | MDAM | TSP, CVRP, SDVRP, OP, PCTSP, SPCTS | 2021 | [💻](https://github.com/liangxinedu/MDAM) |
