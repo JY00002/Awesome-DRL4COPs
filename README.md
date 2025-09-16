@@ -131,7 +131,8 @@ We provide structured resources focusing on:
 | 30* | Solving Dynamic Traveling Salesman Problems With Deep Reinforcement Learning | DTSP | 2021 | [💻](https://github.com/hachinoone/DRLSolver4DTSP) |
 | 31* | PolyNet: Learning Diverse Solution Strategies for Neural Combinatorial Optimization | TSP、CVRP、CVRPTW、JSP | 2025 | [💻](https://github.com/ahottung/PolyNet) |
 | 32* | Neural Multi-Objective Combinatorial Optimization with Diversity Enhancement | MOTSP  | 2023 | [💻](https://github.com/bill-cjb/NHDE) |
-
+| 33* | Combinatorial Optimization with Policy Adaptation using Latent Space Search | TSP、CVRP、JSP  | 2023 | [💻](https://github.com/instadeepai/compass) |
+| 34* | Rethinking Light Decoder-based Solvers for Vehicle Routing Problems | 16 VRP variants  | 2025 | [💻](https://github.com/ziweileonhuang/reld-nco) |
 
 + "An asterisk (*) indicates newly added information obtained from the latest literature and related literature expansion."
 
