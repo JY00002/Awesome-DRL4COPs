@@ -62,7 +62,7 @@ We provide structured resources focusing on:
 |:--:|-------------|:-------:|:-------:|:----:|:----:|
 | 1 | Learning to Dispatch for Job Shop Scheduling via Deep Reinforcement Learning | L2D | CJSP | 2020 | [💻](https://github.com/zcajiayin/L2D) |
 | 2 | Matrix Encoding Networks for Neural Combinatorial Optimization | MatNet | FFSP/TSP | 2021 | [💻](https://github.com/yd-kwon/MatNet) |
-| 3 | Explainable reinforcement learning in production control of job shop manufacturing system | MJSP | 2022 | [💻](https://github.com/AndreasKuhnle/SimRLFab) |
+| 3 | Explainable reinforcement learning in production control of job shop manufacturing system |SimRLFab| MJSP | 2022 | [💻](https://github.com/AndreasKuhnle/SimRLFab) |
 | 4 | A multi-action deep reinforcement learning framework for flexible Job-shop scheduling problem | FJSPDRL | FJSP | 2022 | [💻](https://github.com/pengguo318/FJSPDRL) |
 | 5 | Multi-objective reinforcement learning framework for dynamic flexible job shop scheduling problem with uncertain events | DMDDQN | MDFJSP | 2022 | [💻](https://codeocean.com/capsule/6421616/tree/v1) |
 | 6 | Solving job scheduling problems in a resource preemption environment with multi-agent reinforcement learning | MASA-QMIX | FFSP | 2022 | [💻](https://github.com/MISTCARRYYOU/MASA-QMIX) |
@@ -109,7 +109,7 @@ We provide structured resources focusing on:
 | 9 | Learning Improvement Heuristics for Solving Routing Problems | -- | TSP, CVRP | 2022 | [💻](https://github.com/WXY1427/Learn-Improvement-Heuristics-for-Routing) |
 | 10 | Solve routing problems with a residual edge-graph attention neural network | -- | TSP, CVRP | 2022 | [💻](https://github.com/Lei-Kun/DRL-and-graph-neural-network-for-routing-problems) |
 | 11 | Meta-Learning-Based Deep Reinforcement Learning for Multiobjective Optimization Problems | MLDRL | MTSP, MVRPTW | 2023 | [💻](https://github.com/zhangzizhen/ML-DAM) |
-| 12 | Neural Improvement Heuristics for Graph Combinatorial Optimization Problems | TSP, PRP, GPP | 2023 | [💻](https://github.com/TheLeprechaun25/neural-improvement-heuristics) |
+| 12 | Neural Improvement Heuristics for Graph Combinatorial Optimization Problems |--| TSP, PRP, GPP | 2023 | [💻](https://github.com/TheLeprechaun25/neural-improvement-heuristics) |
 | 13 | H-TSP: Hierarchically Solving the Large-Scale Traveling Salesman Problem | H-TSP | TSP | 2023 | [💻](https://github.com/Learning4Optimization-HUST/H-TSP) |
 | 14 | Pointerformer: Deep Reinforced Multi-Pointer Transformer for the Traveling Salesman Problem | Pointerformer | TSP | 2023 | [💻](https://github.com/Pointerformer/Pointerformer) |
 | 15 | Cross-Problem Learning for Solving Vehicle Routing Problems | -- | TSP, OP, PCTSP, CVRP | 2024 | [💻](https://github.com/Zhuoyi-Lin/Cross_problem_learning) |
