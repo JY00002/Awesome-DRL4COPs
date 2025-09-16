@@ -126,7 +126,7 @@ We provide structured resources focusing on:
 | 26 | Attention-Enhanced Deep Reinforcement Learning for Electric Vehicle Routing Optimization |AEDRL| E-VRP | 2025 | [💻](https://github.com/forward-no/AEDRL) |
 |:--:|-------------|:-------:|:----:|:----:|
 | 27* | Solving Dynamic Traveling Salesman Problems With Deep Reinforcement Learning | DRLSolver4DTSP | DTSP | 2021 | [💻](https://github.com/hachinoone/DRLSolver4DTSP) |
-| 28* | Neural Multi-Objective Combinatorial Optimization with Diversity Enhancement | MOTSP | 2023 | [💻](https://github.com/bill-cjb/NHDE) |
+| 28* | Neural Multi-Objective Combinatorial Optimization with Diversity Enhancement | NHDE | MOTSP | 2023 | [💻](https://github.com/bill-cjb/NHDE) |
 | 29* | Combinatorial Optimization with Policy Adaptation using Latent Space Search | COMPASS | TSP、CVRP、JSP  | 2023 | [💻](https://github.com/instadeepai/compass) |
 | 30* | PARCO: Learning Parallel Autoregressive Policies for Efficient Multi-Agent Combinatorial Optimization | PARCO | Multi-Agent--HCVRP, OMDCPDP, FFSP | 2024 | [💻](https://github.com/ai4co/parco) |
 | 31* | 2D-Ptr: 2D Array Pointer Network for Solving the Heterogeneous Capacitated Vehicle Routing Problem | 2D-Ptr | HCVRP | 2024 | [💻](https://github.com/farkguidao/2D-Ptr) |
