@@ -129,6 +129,7 @@ We provide structured resources focusing on:
 | 28* | Learning to solve the Skill Vehicle Routing Problem with Deep Reinforcement Learning | SVRP | 2025 | [💻](https://github.com/ngastzepeda/lion2025-drl-skillvrp) |
 | 29* | 2D-Ptr: 2D Array Pointer Network for Solving the Heterogeneous Capacitated Vehicle Routing Problem | HCVRP | 2024 | [💻](https://github.com/farkguidao/2D-Ptr) |
 | 30* | Solving Dynamic Traveling Salesman Problems With Deep Reinforcement Learning | DTSP | 2021 | [💻](https://github.com/hachinoone/DRLSolver4DTSP) |
+| 31* | PolyNet: Learning Diverse Solution Strategies for Neural Combinatorial Optimization | TSP、CVRP、CVRPTW、JSP | 2025 | [💻](https://github.com/ahottung/PolyNet) |
 
 
 + "An asterisk (*) highlights recent additions."
