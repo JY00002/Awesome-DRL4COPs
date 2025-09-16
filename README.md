@@ -130,6 +130,7 @@ We provide structured resources focusing on:
 | 29* | 2D-Ptr: 2D Array Pointer Network for Solving the Heterogeneous Capacitated Vehicle Routing Problem | HCVRP | 2024 | [💻](https://github.com/farkguidao/2D-Ptr) |
 | 30* | Solving Dynamic Traveling Salesman Problems With Deep Reinforcement Learning | DTSP | 2021 | [💻](https://github.com/hachinoone/DRLSolver4DTSP) |
 | 31* | PolyNet: Learning Diverse Solution Strategies for Neural Combinatorial Optimization | TSP、CVRP、CVRPTW、JSP | 2025 | [💻](https://github.com/ahottung/PolyNet) |
+| 32* | Neural Multi-Objective Combinatorial Optimization with Diversity Enhancement | MOTSP  | 2023 | [💻](https://github.com/bill-cjb/NHDE) |
 
 
 + "An asterisk (*) highlights recent additions."
