@@ -133,7 +133,7 @@ We provide structured resources focusing on:
 | 32* | Neural Multi-Objective Combinatorial Optimization with Diversity Enhancement | MOTSP  | 2023 | [💻](https://github.com/bill-cjb/NHDE) |
 
 
-+ "An asterisk (*) highlights recent additions."
++ "An asterisk (*) indicates newly added information obtained from the latest literature and related literature expansion."
 
 ---
 
