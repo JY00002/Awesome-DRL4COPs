@@ -133,6 +133,7 @@ We provide structured resources focusing on:
 | 32* | Learning to solve the Skill Vehicle Routing Problem with Deep Reinforcement Learning | SKILLVRP | SVRP | 2025 | [💻](https://github.com/ngastzepeda/lion2025-drl-skillvrp) |
 | 33* | PolyNet: Learning Diverse Solution Strategies for Neural Combinatorial Optimization | PolyNet | TSP、CVRP、CVRPTW、JSP | 2025 | [💻](https://github.com/ahottung/PolyNet) |
 | 34* | Rethinking Light Decoder-based Solvers for Vehicle Routing Problems | RELD | 16 VRP variants  | 2025 | [💻](https://github.com/ziweileonhuang/reld-nco) |
+| 35* | CAMP: Collaborative Attention Model with Profiles for Vehicle Routing Problems | CAMP | PVRP  | 2025 | [💻](https://github.com/ai4co/camp) |
 
 + "An asterisk (*) indicates newly added information obtained from the latest literature and related literature expansion."
 
