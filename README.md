@@ -128,13 +128,14 @@ We provide structured resources focusing on:
 | 27* | Solving Dynamic Traveling Salesman Problems With Deep Reinforcement Learning | DRLSolver4DTSP | DTSP | 2021 | [💻](https://github.com/hachinoone/DRLSolver4DTSP) |
 | 28* | Neural Multi-Objective Combinatorial Optimization with Diversity Enhancement | NHDE | MOTSP | 2023 | [💻](https://github.com/bill-cjb/NHDE) |
 | 29* | Combinatorial Optimization with Policy Adaptation using Latent Space Search | COMPASS | TSP、CVRP、JSP  | 2023 | [💻](https://github.com/instadeepai/compass) |
-| 30* | PARCO: Learning Parallel Autoregressive Policies for Efficient Multi-Agent Combinatorial Optimization | PARCO | Multi-Agent--HCVRP, OMDCPDP, FFSP | 2024 | [💻](https://github.com/ai4co/parco) |
-| 31* | 2D-Ptr: 2D Array Pointer Network for Solving the Heterogeneous Capacitated Vehicle Routing Problem | 2D-Ptr | HCVRP | 2024 | [💻](https://github.com/farkguidao/2D-Ptr) |
-| 32* | Learning to solve the Skill Vehicle Routing Problem with Deep Reinforcement Learning | SKILLVRP | SVRP | 2025 | [💻](https://github.com/ngastzepeda/lion2025-drl-skillvrp) |
-| 33* | PolyNet: Learning Diverse Solution Strategies for Neural Combinatorial Optimization | PolyNet | TSP、CVRP、CVRPTW、JSP | 2025 | [💻](https://github.com/ahottung/PolyNet) |
-| 34* | Rethinking Light Decoder-based Solvers for Vehicle Routing Problems | RELD | 16 VRP variants  | 2025 | [💻](https://github.com/ziweileonhuang/reld-nco) |
-| 35* | CAMP: Collaborative Attention Model with Profiles for Vehicle Routing Problems | CAMP | PVRP  | 2025 | [💻](https://github.com/ai4co/camp) |
-| 36* |Neural Combinatorial Optimization for Real-World Routing | RRNCO | TSP,CVRP,CVRPTW  | 2025 | [💻](https://github.com/ai4co/real-routing-nco) |
+| 30* | Deep Reinforcement Learning for UAV Routing in Presence of Multiple Charging Stations | HADRL | URPMCS (green VRP) | 2023 | [💻](https://faculty.csu.edu.cn/guohuawu/zh_CN/zdylm/193832/hist/index.htm) |
+| 31* | PARCO: Learning Parallel Autoregressive Policies for Efficient Multi-Agent Combinatorial Optimization | PARCO | Multi-Agent--HCVRP, OMDCPDP, FFSP | 2024 | [💻](https://github.com/ai4co/parco) |
+| 32* | 2D-Ptr: 2D Array Pointer Network for Solving the Heterogeneous Capacitated Vehicle Routing Problem | 2D-Ptr | HCVRP | 2024 | [💻](https://github.com/farkguidao/2D-Ptr) |
+| 33* | Learning to solve the Skill Vehicle Routing Problem with Deep Reinforcement Learning | SKILLVRP | SVRP | 2025 | [💻](https://github.com/ngastzepeda/lion2025-drl-skillvrp) |
+| 34* | PolyNet: Learning Diverse Solution Strategies for Neural Combinatorial Optimization | PolyNet | TSP、CVRP、CVRPTW、JSP | 2025 | [💻](https://github.com/ahottung/PolyNet) |
+| 35* | Rethinking Light Decoder-based Solvers for Vehicle Routing Problems | RELD | 16 VRP variants  | 2025 | [💻](https://github.com/ziweileonhuang/reld-nco) |
+| 36* | CAMP: Collaborative Attention Model with Profiles for Vehicle Routing Problems | CAMP | PVRP  | 2025 | [💻](https://github.com/ai4co/camp) |
+| 37* |Neural Combinatorial Optimization for Real-World Routing | RRNCO | TSP,CVRP,CVRPTW  | 2025 | [💻](https://github.com/ai4co/real-routing-nco) |
 
 + "An asterisk (*) indicates newly added information obtained from the latest literature and related literature expansion."
 
