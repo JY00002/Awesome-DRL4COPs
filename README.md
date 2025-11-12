@@ -136,8 +136,6 @@ We provide structured resources focusing on:
 | 36 | CAMP: Collaborative Attention Model with Profiles for Vehicle Routing Problems | CAMP | PVRP  | 2025 | [💻](https://github.com/ai4co/camp) |
 | 37 | RRNCO: Towards Real-World Routing with Neural Combinatorial Optimization | RRNCO | TSP,CVRP,CVRPTW  | 2025 | [💻](https://github.com/ai4co/real-routing-nco) |
 
-+ "An asterisk (*) indicates newly added information obtained from the latest literature and related literature expansion."
-
 ---
 
 ## 🔬 Supplementary Resources
