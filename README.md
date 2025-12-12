@@ -46,10 +46,10 @@ This repository accompanies the work:
 This repository accompanies our work on **"Deep reinforcement learning for combinatorial optimization problems: a comprehensive literature review"**.  
 We provide structured resources focusing on:
 
-- Summarization of **VRP, JSP, and FSP** approaches
-- Through a critical analysis of **263** recent studies (2020–2025)
+- Summarization of **VRP*, JSP*, and FSP*** approaches
+- Through a critical analysis of **300+** recent studies (2017–2025)
 - **Benchmark datasets** and state-of-the-art results
-- Implementations of key algorithms
+- Sota results of key algorithms
 
 > **💡 Note**: Designed as a navigable resource for researchers at the intersection of DRL and COPs
 
