@@ -36,7 +36,7 @@ This repository accompanies the work:
 ---
 
 ## 🔥 Latest News
-- **`[2025-07-23]`** 🎉 Our paper *"Deep reinforcement learning for combinatorial optimization problems: a challenge-driven methodology and systematic review"* has been **submitted for publication**.
+- **`[2025-07-23]`** 🎉 Our paper *"Deep reinforcement learning for combinatorial optimization problems: a challenge-driven methodology and systematic review"* has been **has been accepted for publication in Mathematics and is now available online.**
 
 > 💬 Questions or suggestions? Open an [issue](https://github.com/JY00002/Awesome-DRL4COPs/issues) or contact us via [email](shengyunwei@nudt.edu.cn)
 
@@ -179,9 +179,14 @@ We provide structured resources focusing on:
 
 ## ✏️ Citation
 ```bibtex
-@article{awesomeDRL4COPs2025,
-  title  = {Deep reinforcement learning for combinatorial optimization problems: a challenge-driven methodology and systematic review},
-  author = {Wei, et al.},
-  journal = {submitted for publication},
-  year   = {2025}
+@Article{math14142538,
+AUTHOR = {Wei, Shengyun and Huang, Chuibing and Wang, Zhenyi and Wang, Yang and Kong, Dekang and Mi, Haibo and Sun, Zhaolong},
+TITLE = {Deep Reinforcement Learning for Combinatorial Optimization Problems: A Challenge-Driven Methodology and Systematic Review},
+JOURNAL = {Mathematics},
+VOLUME = {14},
+YEAR = {2026},
+NUMBER = {14},
+ARTICLE-NUMBER = {2538},
+ISSN = {2227-7390},
+DOI = {10.3390/math14142538}
 }
