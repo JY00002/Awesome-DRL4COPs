@@ -178,7 +178,6 @@ We provide structured resources focusing on:
 ---
 
 ## ✏️ Citation
-## ✏️ Citation
 
 ### BibTeX
 
