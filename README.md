@@ -190,3 +190,11 @@ ARTICLE-NUMBER = {2538},
 ISSN = {2227-7390},
 DOI = {10.3390/math14142538}
 }
+
+``` APA 7th
+
+Wei, S., Huang, C., Wang, Z., Wang, Y., Kong, D., Mi, H., & Sun, Z. (2026). Deep reinforcement learning for combinatorial optimization problems: A challenge-driven methodology and systematic review. *Mathematics*, *14*(14), Article 2538. https://doi.org/10.3390/math14142538
+
+```  IEEE
+
+S. Wei, C. Huang, Z. Wang, Y. Wang, D. Kong, H. Mi, and Z. Sun, “Deep reinforcement learning for combinatorial optimization problems: A challenge-driven methodology and systematic review,” *Mathematics*, vol. 14, no. 14, Art. no. 2538, 2026, doi: 10.3390/math14142538.
